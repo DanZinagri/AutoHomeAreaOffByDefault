@@ -3,3 +3,4 @@ E:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoHomeAreaOffByDefault\Source\o
 E:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoHomeAreaOffByDefault\Source\obj\Debug\AutoHomeAreaOffByDefault.GeneratedMSBuildEditorConfig.editorconfig
 E:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoHomeAreaOffByDefault\Source\obj\Debug\AutoHomeAreaOffByDefault.csproj.CoreCompileInputs.cache
 E:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoHomeAreaOffByDefault\Source\obj\Debug\AutoHomeAreaOffByDefault.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoHomeAreaOffByDefault\1.7\Assemblies\AutoHomeAreaOffByDefault.dll

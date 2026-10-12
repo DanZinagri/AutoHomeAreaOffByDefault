@@ -5,6 +5,7 @@
   <packageId>DanZinagri.AutoHomeAreaOffByDefault</packageId>
   <supportedVersions>
     <li>1.6</li>
+    <li>1.7</li>
   </supportedVersions>
   <description>Starts every new colony with the "Automatically expand home area" play setting turned OFF instead of ON.</description>
 </ModMetaData>

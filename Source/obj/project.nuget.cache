@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gv2Ty8kR9CM=",
+  "dgSpecHash": "WBpXhX1JaJw=",
   "success": true,
   "projectFilePath": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AutoHomeAreaOffByDefault\\Source\\AutoHomeAreaOffByDefault.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\DanZinagri\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
-    "C:\\Users\\DanZinagri\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
